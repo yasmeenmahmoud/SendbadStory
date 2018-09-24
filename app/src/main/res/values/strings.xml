@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SendbadStory</string>
+    <string name="hekayatelsendbad">حكايات السندباد</string>
+    <string-array name="index">
+        <item>حكاية السندباد</item>
+        <item>الجزيره المتحركه </item>
+        <item>وادى الالماس</item>
+        <item>الفول الاسود</item>
+        <item>السندباد يدفن حيا</item>
+        <item>شيخ البحر</item>
+        <item>رحله نهريه فى كهف</item>
+        <item>مقبرة الافيال</item>
+
+    </string-array>
+</resources>
